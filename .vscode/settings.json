@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "defs.h": "c",
+        "draw.h": "c",
+        "input.h": "c",
+        "window.h": "c",
+        "update.h": "c",
+        "global.h": "c",
+        "sdl.h": "c",
+        "stdio.h": "c",
+        "init.h": "c"
+    }
+}
